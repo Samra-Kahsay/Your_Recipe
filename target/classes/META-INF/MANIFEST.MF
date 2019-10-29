@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sam
+Build-Jdk: 10.0.1
+Implementation-Title: your-recipe
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.group
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/your-recipe
+Created-By: Maven Integration for Eclipse
+
